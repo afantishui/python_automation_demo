@@ -1,0 +1,121 @@
+:Monkey: seed=1506752522652 count=500
+:AllowPackage: com.tencent.mobileqq
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 20.0%
+//   1: 5.714286%
+//   2: 1.1428572%
+//   3: 8.571429%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 14.285715%
+//   7: 40.0%
+//   8: 1.1428572%
+//   9: 1.1428572%
+//   10: 0.5714286%
+//   11: 7.4285717%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.tencent.mobileqq/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.mobileqq/.activity.SplashActivity } in package com.tencent.mobileqq
+:Sending Touch (ACTION_DOWN): 0:(39.0,77.0)
+:Sending Touch (ACTION_UP): 0:(37.234806,77.972946)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(73.0,1605.0)
+:Sending Touch (ACTION_UP): 0:(66.99762,1607.3708)
+:Sending Touch (ACTION_DOWN): 0:(699.0,1258.0)
+:Sending Touch (ACTION_UP): 0:(689.3419,1253.4276)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(633.0,1069.0)
+:Sending Touch (ACTION_UP): 0:(644.4285,1068.4243)
+:Sending Touch (ACTION_DOWN): 0:(588.0,1323.0)
+:Sending Touch (ACTION_UP): 0:(600.59503,1272.4498)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(962.0,753.0)
+:Sending Touch (ACTION_UP): 0:(951.89795,751.5499)
+:Sending Touch (ACTION_DOWN): 0:(865.0,1433.0)
+:Sending Touch (ACTION_UP): 0:(867.91614,1418.8289)
+:Sending Touch (ACTION_DOWN): 0:(887.0,633.0)
+    //[calendar_time:2017-09-29 16:35:22.247  system_uptime:196382155]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(904.00244,625.4247)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(613.0,1773.0)
+:Sending Touch (ACTION_UP): 0:(633.10406,1773.7872)
+:Sending Touch (ACTION_DOWN): 0:(973.0,875.0)
+:Sending Touch (ACTION_UP): 0:(955.09265,874.99963)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(576.0,1712.0)
+:Sending Touch (ACTION_UP): 0:(565.1393,1704.7742)
+:Sending Touch (ACTION_DOWN): 0:(412.0,1033.0)
+:Sending Touch (ACTION_UP): 0:(411.2498,1048.6198)
+:Sending Touch (ACTION_DOWN): 0:(700.0,943.0)
+:Sending Touch (ACTION_UP): 0:(700.0384,944.1557)
+:Sending Touch (ACTION_DOWN): 0:(581.0,1418.0)
+:Sending Touch (ACTION_UP): 0:(587.5766,1418.585)
+:Sending Touch (ACTION_DOWN): 0:(941.0,258.0)
+:Sending Touch (ACTION_UP): 0:(949.48956,257.6184)
+    // activityResuming(com.tencent.mobileqq)
+:Sending Touch (ACTION_DOWN): 0:(548.0,1716.0)
+:Sending Touch (ACTION_UP): 0:(542.7287,1715.2313)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+    //[calendar_time:2017-09-29 16:35:30.183  system_uptime:196390091]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(775.0,1441.0)
+:Sending Touch (ACTION_UP): 0:(782.08936,1427.6351)
+:Sending Touch (ACTION_DOWN): 0:(425.0,516.0)
+:Sending Touch (ACTION_UP): 0:(380.98557,521.2463)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(917.0,1627.0)
+:Sending Touch (ACTION_UP): 0:(909.8484,1634.0364)
+:Sending Touch (ACTION_DOWN): 0:(78.0,173.0)
+:Sending Touch (ACTION_UP): 0:(0.0,154.80457)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(271.0,1150.0)
+    //[calendar_time:2017-09-29 16:35:36.300  system_uptime:196396207]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(276.27237,1150.1042)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(355.0,662.0)
+:Sending Touch (ACTION_UP): 0:(351.27643,666.3762)
+:Sending Touch (ACTION_DOWN): 0:(833.0,860.0)
+:Sending Touch (ACTION_UP): 0:(823.6678,874.7604)
+:Sending Touch (ACTION_DOWN): 0:(544.0,1803.0)
+:Sending Touch (ACTION_UP): 0:(543.2123,1785.8479)
+:Sending Touch (ACTION_DOWN): 0:(759.0,625.0)
+:Sending Touch (ACTION_UP): 0:(709.33167,785.6455)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+    //[calendar_time:2017-09-29 16:35:44.584  system_uptime:196404491]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(611.0,947.0)
+:Sending Touch (ACTION_UP): 0:(610.52563,949.5198)
+:Sending Touch (ACTION_DOWN): 0:(577.0,1074.0)
+:Sending Touch (ACTION_UP): 0:(577.98456,1083.2839)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(37.0,1519.0)
+:Sending Touch (ACTION_UP): 0:(101.98705,1513.0782)
+:Sending Touch (ACTION_DOWN): 0:(703.0,371.0)
+:Sending Touch (ACTION_UP): 0:(706.5784,372.79108)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,1174.0)
+:Sending Touch (ACTION_UP): 0:(1007.64374,1179.6558)
+:Sending Touch (ACTION_DOWN): 0:(918.0,1619.0)
+:Sending Touch (ACTION_UP): 0:(928.0501,1667.3833)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,1529.0)
+:Sending Touch (ACTION_UP): 0:(1007.829,1530.7003)
+:Sending Touch (ACTION_DOWN): 0:(981.0,987.0)
+:Sending Touch (ACTION_UP): 0:(958.06714,996.14545)
+Events injected: 500
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=41073ms (0ms mobile, 0ms wifi, 41073ms not connected)
+// Monkey finished

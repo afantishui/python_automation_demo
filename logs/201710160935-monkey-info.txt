@@ -1,0 +1,5 @@
+:Monkey: seed=1508197627320 count=30000
+:AllowPackage: com.game37.wuyichuanqi
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+** No activities found to run, monkey aborted.

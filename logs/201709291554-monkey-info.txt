@@ -1,0 +1,146 @@
+:Monkey: seed=1506750103767 count=500
+:AllowPackage: com.tencent.mobileqq
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 20.0%
+//   1: 5.714286%
+//   2: 1.1428572%
+//   3: 8.571429%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 14.285715%
+//   7: 40.0%
+//   8: 1.1428572%
+//   9: 1.1428572%
+//   10: 0.5714286%
+//   11: 7.4285717%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.tencent.mobileqq/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.mobileqq/.activity.SplashActivity } in package com.tencent.mobileqq
+:Sending Touch (ACTION_DOWN): 0:(130.0,534.0)
+:Sending Touch (ACTION_UP): 0:(127.54009,510.93896)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(195.0,941.0)
+:Sending Touch (ACTION_UP): 0:(203.1923,942.09875)
+:Sending Touch (ACTION_DOWN): 0:(759.0,1665.0)
+:Sending Touch (ACTION_UP): 0:(750.32214,1674.8518)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(490.0,379.0)
+:Sending Touch (ACTION_UP): 0:(496.08102,378.76294)
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.activity.ChatActivity } in package com.tencent.mobileqq
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.activity.ChatActivity } in package com.tencent.mobileqq
+:Sending Touch (ACTION_DOWN): 0:(1079.0,332.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(1080.0,319.33887)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(926.0,420.0)
+:Sending Touch (ACTION_UP): 0:(930.0457,419.36194)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(776.0,947.0)
+    //[calendar_time:2017-09-29 15:55:05.329  system_uptime:193965236]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(735.6321,859.10474)
+:Sending Touch (ACTION_DOWN): 0:(726.0,796.0)
+:Sending Touch (ACTION_UP): 0:(733.9511,793.8088)
+:Sending Touch (ACTION_DOWN): 0:(561.0,803.0)
+:Sending Touch (ACTION_UP): 0:(569.63617,796.8832)
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/com.tencent.biz.pubaccount.PublicAccountBrowser } in package com.tencent.mobileqq
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/com.tencent.biz.pubaccount.PublicAccountBrowser } in package com.tencent.mobileqq
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(470.0,413.0)
+:Sending Touch (ACTION_UP): 0:(474.28632,405.99167)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1033.0,1046.0)
+:Sending Touch (ACTION_UP): 0:(1035.7667,1005.47253)
+:Sending Touch (ACTION_DOWN): 0:(442.0,1581.0)
+:Sending Touch (ACTION_UP): 0:(443.62466,1599.5078)
+:Sending Touch (ACTION_DOWN): 0:(464.0,1711.0)
+:Sending Touch (ACTION_UP): 0:(461.9057,1706.7944)
+:Sending Touch (ACTION_DOWN): 0:(251.0,1322.0)
+    //[calendar_time:2017-09-29 15:55:15.378  system_uptime:193975286]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(250.9938,1320.7274)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(809.0,1698.0)
+:Sending Touch (ACTION_UP): 0:(794.5873,1704.1544)
+:Sending Touch (ACTION_DOWN): 0:(483.0,586.0)
+:Sending Touch (ACTION_UP): 0:(468.43668,588.28955)
+:Sending Touch (ACTION_DOWN): 0:(1074.0,934.0)
+:Sending Touch (ACTION_UP): 0:(1074.0981,922.66547)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(167.0,505.0)
+:Sending Touch (ACTION_UP): 0:(161.59438,507.10165)
+:Sending Touch (ACTION_DOWN): 0:(643.0,1735.0)
+:Sending Touch (ACTION_UP): 0:(648.9589,1743.9019)
+:Sending Touch (ACTION_DOWN): 0:(974.0,1492.0)
+:Sending Touch (ACTION_UP): 0:(969.3711,1490.7875)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calendar/.homepage.AllInOneActivity } in package com.android.calendar
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calendar/.homepage.AllInOneActivity } in package com.android.calendar
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(999.0,972.0)
+    //[calendar_time:2017-09-29 15:55:25.042  system_uptime:193984949]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(1003.4627,973.99994)
+:Sending Touch (ACTION_DOWN): 0:(624.0,1902.0)
+:Sending Touch (ACTION_UP): 0:(625.19275,1887.9135)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.tencent.mobileqq/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.mobileqq/.activity.SplashActivity } in package com.tencent.mobileqq
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(37.0,1712.0)
+:Sending Touch (ACTION_UP): 0:(40.20125,1726.5186)
+:Sending Touch (ACTION_DOWN): 0:(507.0,172.0)
+:Sending Touch (ACTION_UP): 0:(501.50748,167.05356)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(841.0,328.0)
+:Sending Touch (ACTION_UP): 0:(845.54724,329.59515)
+:Sending Touch (ACTION_DOWN): 0:(4.0,381.0)
+:Sending Touch (ACTION_UP): 0:(12.507903,374.95084)
+:Sending Touch (ACTION_DOWN): 0:(903.0,1255.0)
+:Sending Touch (ACTION_UP): 0:(915.9267,1256.7631)
+:Sending Touch (ACTION_DOWN): 0:(673.0,1787.0)
+:Sending Touch (ACTION_UP): 0:(673.14856,1769.7548)
+:Sending Touch (ACTION_DOWN): 0:(1077.0,297.0)
+:Sending Touch (ACTION_UP): 0:(1077.4386,297.1569)
+    //[calendar_time:2017-09-29 15:55:37.455  system_uptime:193997363]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(718.0,1304.0)
+:Sending Touch (ACTION_UP): 0:(653.01654,1323.2107)
+:Sending Touch (ACTION_DOWN): 0:(441.0,849.0)
+:Sending Touch (ACTION_UP): 0:(460.59845,834.6083)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.tencent.mobileqq/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.mobileqq/.activity.SplashActivity } in package com.tencent.mobileqq
+:Sending Touch (ACTION_DOWN): 0:(638.0,1822.0)
+:Sending Touch (ACTION_UP): 0:(647.28424,1830.1428)
+:Sending Touch (ACTION_DOWN): 0:(932.0,1886.0)
+:Sending Touch (ACTION_UP): 0:(879.93225,1898.5648)
+:Sending Touch (ACTION_DOWN): 0:(101.0,75.0)
+:Sending Touch (ACTION_UP): 0:(95.81695,68.60441)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(425.0,1779.0)
+:Sending Touch (ACTION_UP): 0:(419.126,1782.651)
+:Sending Touch (ACTION_DOWN): 0:(492.0,1221.0)
+:Sending Touch (ACTION_UP): 0:(492.14218,1225.2303)
+:Sending Touch (ACTION_DOWN): 0:(29.0,1366.0)
+:Sending Touch (ACTION_UP): 0:(15.469629,1383.0024)
+:Sending Touch (ACTION_DOWN): 0:(74.0,1415.0)
+:Sending Touch (ACTION_UP): 0:(70.99579,1414.1831)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(934.0,778.0)
+Events injected: 500
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=2 trackballs=0 flips=3 rotations=0
+## Network stats: elapsed time=53245ms (0ms mobile, 0ms wifi, 53245ms not connected)
+// Monkey finished

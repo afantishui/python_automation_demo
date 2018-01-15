@@ -1,0 +1,161 @@
+:Monkey: seed=1506751541214 count=500
+:AllowPackage: com.tencent.mobileqq
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 20.0%
+//   1: 5.714286%
+//   2: 1.1428572%
+//   3: 8.571429%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 14.285715%
+//   7: 40.0%
+//   8: 1.1428572%
+//   9: 1.1428572%
+//   10: 0.5714286%
+//   11: 7.4285717%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.tencent.mobileqq/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.mobileqq/.activity.SplashActivity } in package com.tencent.mobileqq
+:Sending Touch (ACTION_DOWN): 0:(977.0,755.0)
+:Sending Touch (ACTION_UP): 0:(984.80164,765.2377)
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.activity.ChatActivity } in package com.tencent.mobileqq
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.activity.ChatActivity } in package com.tencent.mobileqq
+:Sending Touch (ACTION_DOWN): 0:(530.0,847.0)
+:Sending Touch (ACTION_UP): 0:(534.80115,844.37134)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Touch (ACTION_DOWN): 0:(1034.0,139.0)
+:Sending Touch (ACTION_UP): 0:(960.9024,120.35417)
+:Sending Touch (ACTION_DOWN): 0:(1071.0,1773.0)
+:Sending Touch (ACTION_UP): 0:(1079.7218,1758.0314)
+:Sending Touch (ACTION_DOWN): 0:(4.0,1664.0)
+:Sending Touch (ACTION_UP): 0:(7.858973,1677.911)
+:Sending Touch (ACTION_DOWN): 0:(187.0,359.0)
+:Sending Touch (ACTION_UP): 0:(185.19261,293.16278)
+:Sending Touch (ACTION_DOWN): 0:(1044.0,1210.0)
+:Sending Touch (ACTION_UP): 0:(1030.9426,1187.7932)
+:Sending Touch (ACTION_DOWN): 0:(479.0,1551.0)
+:Sending Touch (ACTION_UP): 0:(476.65048,1570.1337)
+:Sending Touch (ACTION_DOWN): 0:(1060.0,914.0)
+:Sending Touch (ACTION_UP): 0:(1075.1803,917.5113)
+:Sending Touch (ACTION_DOWN): 0:(425.0,1746.0)
+    //[calendar_time:2017-09-29 16:19:04.742  system_uptime:195404651]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(464.91483,1643.2341)
+:Sending Touch (ACTION_DOWN): 0:(201.0,1401.0)
+:Sending Touch (ACTION_UP): 0:(204.17647,1400.2706)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(39.0,1274.0)
+:Sending Touch (ACTION_UP): 0:(24.052425,1271.6758)
+:Sending Touch (ACTION_DOWN): 0:(529.0,1909.0)
+:Sending Touch (ACTION_UP): 0:(548.77527,1920.0)
+:Sending Touch (ACTION_DOWN): 0:(291.0,1483.0)
+:Sending Touch (ACTION_UP): 0:(291.8346,1472.7703)
+:Sending Touch (ACTION_DOWN): 0:(154.0,1913.0)
+:Sending Touch (ACTION_UP): 0:(174.71593,1919.9287)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(12.0,1521.0)
+:Sending Touch (ACTION_UP): 0:(17.228544,1520.966)
+:Sending Touch (ACTION_DOWN): 0:(118.0,202.0)
+:Sending Touch (ACTION_UP): 0:(124.20888,204.77734)
+:Sending Touch (ACTION_DOWN): 0:(728.0,7.0)
+:Sending Touch (ACTION_UP): 0:(728.5292,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1065.0,48.0)
+:Sending Touch (ACTION_UP): 0:(1063.3839,33.129234)
+    //[calendar_time:2017-09-29 16:19:16.337  system_uptime:195416244]
+    // Sending event #200
+    // activityResuming(com.tencent.mobileqq)
+:Sending Touch (ACTION_DOWN): 0:(540.0,1174.0)
+:Sending Touch (ACTION_UP): 0:(536.5756,1164.41)
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.activity.AssociatedAccountActivity } in package com.tencent.mobileqq
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.activity.AssociatedAccountActivity } in package com.tencent.mobileqq
+:Sending Touch (ACTION_DOWN): 0:(879.0,697.0)
+:Sending Touch (ACTION_UP): 0:(878.7301,694.3201)
+:Sending Touch (ACTION_DOWN): 0:(379.0,1315.0)
+:Sending Touch (ACTION_UP): 0:(385.26096,1309.679)
+:Sending Touch (ACTION_DOWN): 0:(268.0,175.0)
+:Sending Touch (ACTION_UP): 0:(342.23926,212.58298)
+:Sending Touch (ACTION_DOWN): 0:(796.0,1898.0)
+:Sending Touch (ACTION_UP): 0:(786.7582,1897.9735)
+:Sending Touch (ACTION_DOWN): 0:(596.0,1368.0)
+:Sending Touch (ACTION_UP): 0:(595.4686,1346.0548)
+:Sending Touch (ACTION_DOWN): 0:(244.0,240.0)
+:Sending Touch (ACTION_UP): 0:(244.87723,247.03079)
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.activity.SubLoginActivity } in package com.tencent.mobileqq
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.activity.SubLoginActivity } in package com.tencent.mobileqq
+:Sending Touch (ACTION_DOWN): 0:(617.0,169.0)
+:Sending Touch (ACTION_UP): 0:(602.72845,170.285)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(133.0,1879.0)
+:Sending Touch (ACTION_UP): 0:(104.539795,1785.4497)
+:Sending Touch (ACTION_DOWN): 0:(957.0,65.0)
+:Sending Touch (ACTION_UP): 0:(957.7032,69.775154)
+:Sending Touch (ACTION_DOWN): 0:(602.0,1101.0)
+:Sending Touch (ACTION_UP): 0:(606.0057,1103.9272)
+:Sending Touch (ACTION_DOWN): 0:(746.0,539.0)
+:Sending Touch (ACTION_UP): 0:(742.308,533.251)
+:Sending Touch (ACTION_DOWN): 0:(527.0,806.0)
+:Sending Touch (ACTION_UP): 0:(525.8728,811.5922)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.tencent.mobileqq/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.mobileqq/.activity.SplashActivity } in package com.tencent.mobileqq
+:Sending Touch (ACTION_DOWN): 0:(221.0,207.0)
+:Sending Touch (ACTION_UP): 0:(217.70984,208.92076)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(968.0,1478.0)
+:Sending Touch (ACTION_UP): 0:(965.64026,1481.3145)
+    //[calendar_time:2017-09-29 16:19:26.720  system_uptime:195426628]
+    // Sending event #300
+    //[calendar_time:2017-09-29 16:19:27.023  system_uptime:195426931]
+    // Sending event #300
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(57.0,755.0)
+:Sending Touch (ACTION_UP): 0:(69.58271,756.755)
+:Sending Touch (ACTION_DOWN): 0:(114.0,1181.0)
+:Sending Touch (ACTION_UP): 0:(122.27269,1184.9221)
+:Sending Touch (ACTION_DOWN): 0:(64.0,991.0)
+:Sending Touch (ACTION_UP): 0:(88.98297,990.9178)
+:Sending Touch (ACTION_DOWN): 0:(236.0,256.0)
+:Sending Touch (ACTION_UP): 0:(245.79753,235.54747)
+:Sending Touch (ACTION_DOWN): 0:(464.0,1454.0)
+:Sending Touch (ACTION_UP): 0:(464.95322,1442.5913)
+:Sending Touch (ACTION_DOWN): 0:(876.0,1814.0)
+:Sending Touch (ACTION_UP): 0:(861.1719,1832.9286)
+:Sending Touch (ACTION_DOWN): 0:(64.0,1774.0)
+:Sending Touch (ACTION_UP): 0:(62.006,1783.0479)
+:Sending Touch (ACTION_DOWN): 0:(413.0,144.0)
+:Sending Touch (ACTION_UP): 0:(409.5823,138.7588)
+:Sending Touch (ACTION_DOWN): 0:(431.0,1542.0)
+:Sending Touch (ACTION_UP): 0:(418.68213,1558.4355)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+    //[calendar_time:2017-09-29 16:19:36.866  system_uptime:195436772]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(822.0,1772.0)
+:Sending Touch (ACTION_UP): 0:(807.9965,1772.8726)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(177.0,421.0)
+:Sending Touch (ACTION_UP): 0:(182.64583,431.49918)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.tencent.mobileqq/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.mobileqq/.activity.SplashActivity } in package com.tencent.mobileqq
+:Sending Touch (ACTION_DOWN): 0:(390.0,1774.0)
+:Sending Touch (ACTION_UP): 0:(393.0955,1790.4569)
+:Sending Touch (ACTION_DOWN): 0:(720.0,1691.0)
+:Sending Touch (ACTION_UP): 0:(724.9422,1698.6083)
+:Sending Touch (ACTION_DOWN): 0:(31.0,1044.0)
+:Sending Touch (ACTION_UP): 0:(23.292767,1040.5304)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(967.0,1507.0)
+:Sending Touch (ACTION_UP): 0:(957.0887,1506.983)
+:Sending Touch (ACTION_DOWN): 0:(866.0,133.0)
+:Sending Touch (ACTION_UP): 0:(870.08136,138.04037)
+:Sending Touch (ACTION_DOWN): 0:(284.0,1495.0)
+:Sending Touch (ACTION_UP): 0:(287.82684,1505.6595)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+Events injected: 500
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=56044ms (0ms mobile, 0ms wifi, 56044ms not connected)
+// Monkey finished

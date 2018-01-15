@@ -1,0 +1,576 @@
+:Monkey: seed=1506838836733 count=2000
+:AllowPackage: com.game37.wuyichuanqi
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 20.0%
+//   1: 10.0%
+//   2: 1.6666666%
+//   3: 12.5%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 20.833332%
+//   7: 20.0%
+//   8: 1.6666666%
+//   9: 1.6666666%
+//   10: 0.8333333%
+//   11: 10.833333%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.wuyichuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.wuyichuanqi/.AppActivity } in package com.game37.wuyichuanqi
+:Sending Touch (ACTION_DOWN): 0:(1643.0,1030.0)
+:Sending Touch (ACTION_UP): 0:(1634.9241,1041.1897)
+:Sending Touch (ACTION_DOWN): 0:(25.0,53.0)
+:Sending Touch (ACTION_UP): 0:(26.803421,51.44979)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(493.0,977.0)
+:Sending Touch (ACTION_UP): 0:(497.95255,979.434)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(901.0,704.0)
+:Sending Touch (ACTION_UP): 0:(900.0417,697.8495)
+:Sending Touch (ACTION_DOWN): 0:(191.0,907.0)
+:Sending Touch (ACTION_UP): 0:(177.83667,902.1234)
+:Sending Touch (ACTION_DOWN): 0:(1786.0,324.0)
+:Sending Touch (ACTION_UP): 0:(1785.7788,307.2163)
+:Sending Touch (ACTION_DOWN): 0:(1241.0,634.0)
+:Sending Touch (ACTION_UP): 0:(1252.052,636.8841)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(494.0,249.0)
+:Sending Touch (ACTION_UP): 0:(492.9457,268.55298)
+:Sending Touch (ACTION_DOWN): 0:(837.0,391.0)
+:Sending Touch (ACTION_UP): 0:(820.2631,412.66498)
+:Sending Touch (ACTION_DOWN): 0:(581.0,1045.0)
+:Sending Touch (ACTION_UP): 0:(590.55383,1058.9176)
+:Sending Touch (ACTION_DOWN): 0:(855.0,355.0)
+:Sending Touch (ACTION_UP): 0:(855.9973,349.8203)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1888.0,777.0)
+    //[calendar_time:2017-09-30 16:32:29.960  system_uptime:282609867]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(1840.9696,888.9424)
+:Sending Touch (ACTION_DOWN): 0:(1142.0,959.0)
+:Sending Touch (ACTION_UP): 0:(1142.6815,969.65625)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(618.0,365.0)
+:Sending Touch (ACTION_UP): 0:(630.55084,363.22482)
+:Sending Touch (ACTION_DOWN): 0:(1891.0,681.0)
+:Sending Touch (ACTION_UP): 0:(1886.457,678.9298)
+:Sending Touch (ACTION_DOWN): 0:(1159.0,608.0)
+:Sending Touch (ACTION_UP): 0:(1143.0225,658.4979)
+:Sending Touch (ACTION_DOWN): 0:(950.0,285.0)
+:Sending Touch (ACTION_UP): 0:(929.1643,278.1934)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(56.0,692.0)
+:Sending Touch (ACTION_UP): 0:(60.89012,714.87933)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(880.0,944.0)
+:Sending Touch (ACTION_UP): 0:(869.2014,902.4833)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,1006.0)
+:Sending Touch (ACTION_UP): 0:(999.62555,1005.3904)
+:Sending Touch (ACTION_DOWN): 0:(519.0,429.0)
+:Sending Touch (ACTION_UP): 0:(575.8025,440.43628)
+:Sending Touch (ACTION_DOWN): 0:(490.0,996.0)
+    //[calendar_time:2017-09-30 16:32:36.255  system_uptime:282616161]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(455.3292,1021.2288)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(922.0,711.0)
+:Sending Touch (ACTION_UP): 0:(982.2186,774.7293)
+:Sending Touch (ACTION_DOWN): 0:(1490.0,417.0)
+:Sending Touch (ACTION_UP): 0:(1516.9159,447.6644)
+:Sending Touch (ACTION_DOWN): 0:(855.0,123.0)
+:Sending Touch (ACTION_UP): 0:(857.59717,128.8693)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1129.0,558.0)
+:Sending Touch (ACTION_UP): 0:(1129.8032,566.17896)
+:Sending Touch (ACTION_DOWN): 0:(991.0,808.0)
+:Sending Touch (ACTION_UP): 0:(1001.5015,808.4415)
+:Sending Touch (ACTION_DOWN): 0:(322.0,459.0)
+:Sending Touch (ACTION_UP): 0:(320.42447,459.2657)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2017-09-30 16:32:44.052  system_uptime:282623959]
+    // Sending event #300
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.wuyichuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.wuyichuanqi/.AppActivity } in package com.game37.wuyichuanqi
+:Sending Touch (ACTION_DOWN): 0:(1744.0,837.0)
+:Sending Touch (ACTION_UP): 0:(1738.5848,828.6025)
+:Sending Touch (ACTION_DOWN): 0:(1207.0,518.0)
+:Sending Touch (ACTION_UP): 0:(1221.7511,507.07822)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.wuyichuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.wuyichuanqi/.AppActivity } in package com.game37.wuyichuanqi
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(1812.0,635.0)
+:Sending Touch (ACTION_UP): 0:(1804.6674,617.977)
+:Sending Touch (ACTION_DOWN): 0:(1086.0,1059.0)
+:Sending Touch (ACTION_UP): 0:(1086.7682,1045.7157)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1763.0,18.0)
+:Sending Touch (ACTION_UP): 0:(1855.5516,14.278489)
+:Sending Touch (ACTION_DOWN): 0:(1883.0,617.0)
+:Sending Touch (ACTION_UP): 0:(1875.3441,625.0365)
+:Sending Touch (ACTION_DOWN): 0:(1285.0,208.0)
+:Sending Touch (ACTION_UP): 0:(1290.4502,195.38774)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(499.0,542.0)
+:Sending Touch (ACTION_UP): 0:(505.05325,544.7622)
+:Sending Touch (ACTION_DOWN): 0:(1023.0,49.0)
+    //[calendar_time:2017-09-30 16:32:52.517  system_uptime:282632424]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(1055.8607,63.64643)
+:Sending Touch (ACTION_DOWN): 0:(1846.0,654.0)
+:Sending Touch (ACTION_UP): 0:(1834.2317,664.4631)
+:Sending Touch (ACTION_DOWN): 0:(213.0,239.0)
+:Sending Touch (ACTION_UP): 0:(211.42337,243.32558)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1648.0,428.0)
+:Sending Touch (ACTION_UP): 0:(1633.9983,438.10587)
+:Sending Touch (ACTION_DOWN): 0:(1815.0,255.0)
+:Sending Touch (ACTION_UP): 0:(1806.4261,263.40677)
+:Sending Touch (ACTION_DOWN): 0:(1858.0,489.0)
+:Sending Touch (ACTION_UP): 0:(1860.3293,499.50574)
+:Sending Touch (ACTION_DOWN): 0:(665.0,164.0)
+:Sending Touch (ACTION_UP): 0:(720.5066,149.64145)
+:Sending Touch (ACTION_DOWN): 0:(597.0,569.0)
+:Sending Touch (ACTION_UP): 0:(597.4294,570.76447)
+:Sending Touch (ACTION_DOWN): 0:(1058.0,413.0)
+:Sending Touch (ACTION_UP): 0:(1001.1625,337.2624)
+:Sending Touch (ACTION_DOWN): 0:(1174.0,951.0)
+:Sending Touch (ACTION_UP): 0:(1171.8729,950.78876)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(265.0,435.0)
+:Sending Touch (ACTION_UP): 0:(213.46593,474.38248)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+    //[calendar_time:2017-09-30 16:33:00.205  system_uptime:282640111]
+    // Sending event #500
+    //[calendar_time:2017-09-30 16:33:00.506  system_uptime:282640413]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(574.0,141.0)
+:Sending Touch (ACTION_UP): 0:(578.4432,136.8184)
+:Sending Touch (ACTION_DOWN): 0:(462.0,1044.0)
+:Sending Touch (ACTION_UP): 0:(429.97617,1080.0)
+:Sending Touch (ACTION_DOWN): 0:(418.0,238.0)
+:Sending Touch (ACTION_UP): 0:(397.5739,236.80759)
+:Sending Touch (ACTION_DOWN): 0:(808.0,281.0)
+:Sending Touch (ACTION_UP): 0:(804.8528,292.6425)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.wuyichuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.wuyichuanqi/.AppActivity } in package com.game37.wuyichuanqi
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.wuyichuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.wuyichuanqi/.AppActivity } in package com.game37.wuyichuanqi
+:Sending Touch (ACTION_DOWN): 0:(1193.0,854.0)
+:Sending Touch (ACTION_UP): 0:(1192.0605,853.88446)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1552.0,705.0)
+:Sending Touch (ACTION_UP): 0:(1489.2267,715.68427)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(280.0,41.0)
+:Sending Touch (ACTION_UP): 0:(287.0416,40.97403)
+    //[calendar_time:2017-09-30 16:33:08.086  system_uptime:282647993]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(1186.0,758.0)
+:Sending Touch (ACTION_UP): 0:(1182.4464,750.25616)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.wuyichuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.wuyichuanqi/.AppActivity } in package com.game37.wuyichuanqi
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1113.0,626.0)
+:Sending Touch (ACTION_UP): 0:(954.6079,599.31915)
+:Sending Touch (ACTION_DOWN): 0:(787.0,573.0)
+:Sending Touch (ACTION_UP): 0:(787.20776,584.51843)
+:Sending Touch (ACTION_DOWN): 0:(60.0,227.0)
+:Sending Touch (ACTION_UP): 0:(55.776955,216.35193)
+:Sending Touch (ACTION_DOWN): 0:(709.0,865.0)
+:Sending Touch (ACTION_UP): 0:(708.86346,864.56354)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(182.0,277.0)
+:Sending Touch (ACTION_UP): 0:(178.45508,258.39893)
+:Sending Touch (ACTION_DOWN): 0:(1030.0,744.0)
+:Sending Touch (ACTION_UP): 0:(1034.5024,743.75)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(918.0,794.0)
+:Sending Touch (ACTION_UP): 0:(917.6285,795.983)
+:Sending Touch (ACTION_DOWN): 0:(1753.0,610.0)
+:Sending Touch (ACTION_UP): 0:(1768.5376,607.1582)
+:Sending Touch (ACTION_DOWN): 0:(1269.0,22.0)
+:Sending Touch (ACTION_UP): 0:(1288.5768,30.761736)
+    //[calendar_time:2017-09-30 16:33:19.748  system_uptime:282659655]
+    // Sending event #700
+    //[calendar_time:2017-09-30 16:33:20.049  system_uptime:282659956]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(930.0,924.0)
+:Sending Touch (ACTION_UP): 0:(935.73596,925.76587)
+:Sending Touch (ACTION_DOWN): 0:(268.0,998.0)
+:Sending Touch (ACTION_UP): 0:(269.8333,1007.70776)
+:Sending Touch (ACTION_DOWN): 0:(1016.0,725.0)
+:Sending Touch (ACTION_UP): 0:(1009.21173,720.0536)
+:Sending Touch (ACTION_DOWN): 0:(1493.0,134.0)
+:Sending Touch (ACTION_UP): 0:(1483.1625,134.06395)
+:Sending Touch (ACTION_DOWN): 0:(704.0,1028.0)
+:Sending Touch (ACTION_UP): 0:(676.82733,1037.7133)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(749.0,372.0)
+:Sending Touch (ACTION_UP): 0:(769.5638,369.77783)
+:Sending Touch (ACTION_DOWN): 0:(1546.0,310.0)
+:Sending Touch (ACTION_UP): 0:(1632.5925,390.62036)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.wuyichuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.wuyichuanqi/.AppActivity } in package com.game37.wuyichuanqi
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(64.0,570.0)
+:Sending Touch (ACTION_UP): 0:(41.99771,571.5985)
+    //[calendar_time:2017-09-30 16:33:27.332  system_uptime:282667239]
+    // Sending event #800
+    //[calendar_time:2017-09-30 16:33:27.634  system_uptime:282667542]
+    // Sending event #800
+:Sending Touch (ACTION_DOWN): 0:(266.0,608.0)
+:Sending Touch (ACTION_UP): 0:(277.61044,599.66394)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(706.0,47.0)
+:Sending Touch (ACTION_UP): 0:(706.237,41.806686)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1852.0,755.0)
+:Sending Touch (ACTION_UP): 0:(1870.4122,751.0967)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1229.0,376.0)
+:Sending Touch (ACTION_UP): 0:(1241.3077,356.79047)
+:Sending Touch (ACTION_DOWN): 0:(1191.0,1005.0)
+:Sending Touch (ACTION_UP): 0:(1192.1663,993.4151)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(372.0,976.0)
+:Sending Touch (ACTION_UP): 0:(360.74997,975.5324)
+:Sending Touch (ACTION_DOWN): 0:(1126.0,427.0)
+:Sending Touch (ACTION_UP): 0:(1125.5476,415.053)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(527.0,361.0)
+:Sending Touch (ACTION_UP): 0:(559.2689,433.359)
+    //[calendar_time:2017-09-30 16:33:34.237  system_uptime:282674144]
+    // Sending event #900
+    //[calendar_time:2017-09-30 16:33:34.538  system_uptime:282674446]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(40.0,385.0)
+:Sending Touch (ACTION_UP): 0:(34.187225,386.80643)
+:Sending Touch (ACTION_DOWN): 0:(1036.0,706.0)
+:Sending Touch (ACTION_UP): 0:(1037.2512,722.5982)
+:Sending Touch (ACTION_DOWN): 0:(971.0,1058.0)
+:Sending Touch (ACTION_UP): 0:(983.2033,1063.3143)
+:Sending Touch (ACTION_DOWN): 0:(1482.0,187.0)
+:Sending Touch (ACTION_UP): 0:(1478.908,185.25276)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1108.0,980.0)
+:Sending Touch (ACTION_UP): 0:(1104.6799,983.80023)
+:Sending Touch (ACTION_DOWN): 0:(1110.0,197.0)
+:Sending Touch (ACTION_UP): 0:(1090.5948,181.54124)
+:Sending Touch (ACTION_DOWN): 0:(62.0,336.0)
+:Sending Touch (ACTION_UP): 0:(63.04537,339.80652)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(938.0,196.0)
+:Sending Touch (ACTION_UP): 0:(923.10956,187.9881)
+:Sending Touch (ACTION_DOWN): 0:(1779.0,573.0)
+:Sending Touch (ACTION_UP): 0:(1783.8547,574.0685)
+:Sending Touch (ACTION_DOWN): 0:(149.0,126.0)
+:Sending Touch (ACTION_UP): 0:(140.59586,142.51794)
+:Sending Touch (ACTION_DOWN): 0:(1445.0,516.0)
+:Sending Touch (ACTION_UP): 0:(1444.4044,522.0966)
+:Sending Touch (ACTION_DOWN): 0:(1360.0,615.0)
+:Sending Touch (ACTION_UP): 0:(1351.6584,620.826)
+:Sending Touch (ACTION_DOWN): 0:(1853.0,231.0)
+:Sending Touch (ACTION_UP): 0:(1856.7495,213.5457)
+:Sending Touch (ACTION_DOWN): 0:(154.0,71.0)
+:Sending Touch (ACTION_UP): 0:(160.24046,73.12447)
+:Sending Touch (ACTION_DOWN): 0:(459.0,545.0)
+    //[calendar_time:2017-09-30 16:33:42.939  system_uptime:282682845]
+    // Sending event #1000
+:Sending Touch (ACTION_UP): 0:(457.96286,542.5183)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(613.0,138.0)
+:Sending Touch (ACTION_UP): 0:(608.89,144.635)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(134.0,985.0)
+:Sending Touch (ACTION_UP): 0:(130.02846,974.64484)
+:Sending Touch (ACTION_DOWN): 0:(519.0,959.0)
+:Sending Touch (ACTION_UP): 0:(473.43857,941.9339)
+:Sending Touch (ACTION_DOWN): 0:(47.0,25.0)
+:Sending Touch (ACTION_UP): 0:(51.59078,25.409584)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(252.0,983.0)
+:Sending Touch (ACTION_UP): 0:(246.90788,985.1692)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+    //[calendar_time:2017-09-30 16:33:49.995  system_uptime:282689902]
+    // Sending event #1100
+:Sending Touch (ACTION_DOWN): 0:(10.0,157.0)
+:Sending Touch (ACTION_UP): 0:(8.515554,155.1963)
+:Sending Touch (ACTION_DOWN): 0:(1410.0,673.0)
+:Sending Touch (ACTION_UP): 0:(1414.1539,672.4472)
+:Sending Touch (ACTION_DOWN): 0:(386.0,930.0)
+:Sending Touch (ACTION_UP): 0:(323.6458,1013.2798)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(543.0,335.0)
+:Sending Touch (ACTION_UP): 0:(592.0305,381.2958)
+:Sending Touch (ACTION_DOWN): 0:(674.0,751.0)
+:Sending Touch (ACTION_UP): 0:(674.1143,749.127)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(906.0,711.0)
+:Sending Touch (ACTION_UP): 0:(921.7477,726.2508)
+:Sending Touch (ACTION_DOWN): 0:(925.0,283.0)
+    //[calendar_time:2017-09-30 16:33:56.574  system_uptime:282696481]
+    // Sending event #1200
+:Sending Touch (ACTION_UP): 0:(959.48254,228.57301)
+:Sending Touch (ACTION_DOWN): 0:(866.0,1018.0)
+:Sending Touch (ACTION_UP): 0:(866.2842,1023.21985)
+:Sending Touch (ACTION_DOWN): 0:(1269.0,689.0)
+:Sending Touch (ACTION_UP): 0:(1275.4375,685.3435)
+:Sending Touch (ACTION_DOWN): 0:(995.0,670.0)
+:Sending Touch (ACTION_UP): 0:(991.8646,660.3363)
+:Sending Touch (ACTION_DOWN): 0:(347.0,162.0)
+:Sending Touch (ACTION_UP): 0:(353.0959,154.0283)
+:Sending Touch (ACTION_DOWN): 0:(529.0,791.0)
+:Sending Touch (ACTION_UP): 0:(468.1331,802.6142)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1078.0,178.0)
+:Sending Touch (ACTION_UP): 0:(1077.1644,186.42061)
+:Sending Touch (ACTION_DOWN): 0:(1240.0,698.0)
+:Sending Touch (ACTION_UP): 0:(1227.41,700.0925)
+:Sending Touch (ACTION_DOWN): 0:(293.0,901.0)
+:Sending Touch (ACTION_UP): 0:(292.0005,908.09814)
+:Sending Touch (ACTION_DOWN): 0:(1367.0,45.0)
+:Sending Touch (ACTION_UP): 0:(1366.7545,44.883636)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.wuyichuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.wuyichuanqi/.AppActivity } in package com.game37.wuyichuanqi
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+    //[calendar_time:2017-09-30 16:34:06.588  system_uptime:282706495]
+    // Sending event #1300
+:Sending Touch (ACTION_DOWN): 0:(475.0,1064.0)
+:Sending Touch (ACTION_UP): 0:(470.19824,1044.0138)
+:Sending Touch (ACTION_DOWN): 0:(1739.0,684.0)
+:Sending Touch (ACTION_UP): 0:(1732.2484,684.0731)
+:Sending Touch (ACTION_DOWN): 0:(134.0,436.0)
+:Sending Touch (ACTION_UP): 0:(123.69754,435.8486)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1804.0,546.0)
+:Sending Touch (ACTION_UP): 0:(1798.4539,546.04706)
+:Sending Touch (ACTION_DOWN): 0:(646.0,878.0)
+:Sending Touch (ACTION_UP): 0:(658.54004,876.534)
+:Sending Touch (ACTION_DOWN): 0:(643.0,557.0)
+:Sending Touch (ACTION_UP): 0:(642.8428,539.18567)
+:Sending Touch (ACTION_DOWN): 0:(642.0,243.0)
+:Sending Touch (ACTION_UP): 0:(644.7168,245.62505)
+:Sending Touch (ACTION_DOWN): 0:(1900.0,1019.0)
+:Sending Touch (ACTION_UP): 0:(1895.6149,1026.0731)
+:Sending Touch (ACTION_DOWN): 0:(787.0,519.0)
+:Sending Touch (ACTION_UP): 0:(796.7368,524.5887)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(1194.0,63.0)
+:Sending Touch (ACTION_UP): 0:(1146.4949,83.96897)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1213.0,563.0)
+:Sending Touch (ACTION_UP): 0:(1163.3135,649.16296)
+:Sending Touch (ACTION_DOWN): 0:(498.0,955.0)
+:Sending Touch (ACTION_UP): 0:(489.55954,955.33264)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+    //[calendar_time:2017-09-30 16:34:15.955  system_uptime:282715861]
+    // Sending event #1400
+:Sending Touch (ACTION_DOWN): 0:(497.0,818.0)
+:Sending Touch (ACTION_UP): 0:(496.45044,818.4525)
+:Sending Touch (ACTION_DOWN): 0:(70.0,250.0)
+:Sending Touch (ACTION_UP): 0:(102.337975,299.52335)
+:Sending Touch (ACTION_DOWN): 0:(621.0,54.0)
+:Sending Touch (ACTION_UP): 0:(638.06586,52.40822)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(498.0,867.0)
+:Sending Touch (ACTION_UP): 0:(497.9398,853.5238)
+:Sending Touch (ACTION_DOWN): 0:(1896.0,982.0)
+:Sending Touch (ACTION_UP): 0:(1905.9331,958.00916)
+:Sending Touch (ACTION_DOWN): 0:(1373.0,727.0)
+:Sending Touch (ACTION_UP): 0:(1361.3601,727.6344)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1391.0,93.0)
+:Sending Touch (ACTION_UP): 0:(1383.315,93.00021)
+:Sending Touch (ACTION_DOWN): 0:(1595.0,118.0)
+:Sending Touch (ACTION_UP): 0:(1600.6154,134.50537)
+:Sending Touch (ACTION_DOWN): 0:(1811.0,119.0)
+:Sending Touch (ACTION_UP): 0:(1706.0491,173.61414)
+    //[calendar_time:2017-09-30 16:34:24.589  system_uptime:282724496]
+    // Sending event #1500
+    //[calendar_time:2017-09-30 16:34:24.890  system_uptime:282724797]
+    // Sending event #1500
+:Sending Touch (ACTION_DOWN): 0:(1315.0,44.0)
+:Sending Touch (ACTION_UP): 0:(1326.219,59.240593)
+:Sending Touch (ACTION_DOWN): 0:(766.0,471.0)
+:Sending Touch (ACTION_UP): 0:(768.3135,468.89133)
+:Sending Touch (ACTION_DOWN): 0:(1202.0,659.0)
+:Sending Touch (ACTION_UP): 0:(1205.9929,668.13715)
+:Sending Touch (ACTION_DOWN): 0:(521.0,430.0)
+:Sending Touch (ACTION_UP): 0:(523.7809,415.07516)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(985.0,263.0)
+:Sending Touch (ACTION_UP): 0:(984.9197,262.94772)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(386.0,682.0)
+:Sending Touch (ACTION_UP): 0:(545.9196,642.89124)
+    //[calendar_time:2017-09-30 16:34:32.124  system_uptime:282732031]
+    // Sending event #1600
+    //[calendar_time:2017-09-30 16:34:32.425  system_uptime:282732332]
+    // Sending event #1600
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.wuyichuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.wuyichuanqi/.AppActivity } in package com.game37.wuyichuanqi
+:Sending Touch (ACTION_DOWN): 0:(1799.0,545.0)
+:Sending Touch (ACTION_UP): 0:(1786.8956,550.42126)
+:Sending Touch (ACTION_DOWN): 0:(1530.0,1019.0)
+:Sending Touch (ACTION_UP): 0:(1599.3624,1057.9258)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(585.0,728.0)
+:Sending Touch (ACTION_UP): 0:(629.3338,745.1468)
+:Sending Touch (ACTION_DOWN): 0:(189.0,14.0)
+:Sending Touch (ACTION_UP): 0:(195.81052,18.087704)
+:Sending Touch (ACTION_DOWN): 0:(433.0,170.0)
+:Sending Touch (ACTION_UP): 0:(434.44196,183.99252)
+:Sending Touch (ACTION_DOWN): 0:(442.0,790.0)
+:Sending Touch (ACTION_UP): 0:(446.73294,789.84515)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1289.0,539.0)
+:Sending Touch (ACTION_UP): 0:(1272.0773,545.5215)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    //[calendar_time:2017-09-30 16:34:42.286  system_uptime:282742193]
+    // Sending event #1700
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(732.0,562.0)
+:Sending Touch (ACTION_UP): 0:(732.38654,563.2527)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.wuyichuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.wuyichuanqi/.AppActivity } in package com.game37.wuyichuanqi
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(996.0,359.0)
+:Sending Touch (ACTION_UP): 0:(965.3366,385.7568)
+:Sending Touch (ACTION_DOWN): 0:(399.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(401.3326,1040.4106)
+:Sending Touch (ACTION_DOWN): 0:(1866.0,515.0)
+:Sending Touch (ACTION_UP): 0:(1861.7744,515.9142)
+:Sending Touch (ACTION_DOWN): 0:(1223.0,714.0)
+:Sending Touch (ACTION_UP): 0:(1228.9467,709.49634)
+:Sending Touch (ACTION_DOWN): 0:(25.0,1074.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1024.4159)
+:Sending Touch (ACTION_DOWN): 0:(874.0,884.0)
+:Sending Touch (ACTION_UP): 0:(869.16174,870.0067)
+    //[calendar_time:2017-09-30 16:34:50.198  system_uptime:282750105]
+    // Sending event #1800
+    //[calendar_time:2017-09-30 16:34:50.499  system_uptime:282750405]
+    // Sending event #1800
+:Sending Touch (ACTION_DOWN): 0:(928.0,131.0)
+:Sending Touch (ACTION_UP): 0:(902.1931,132.80115)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(323.0,593.0)
+:Sending Touch (ACTION_UP): 0:(332.8802,599.80566)
+:Sending Touch (ACTION_DOWN): 0:(1666.0,976.0)
+:Sending Touch (ACTION_UP): 0:(1665.707,977.24817)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1865.0,1044.0)
+:Sending Touch (ACTION_UP): 0:(1858.4648,1032.8344)
+:Sending Touch (ACTION_DOWN): 0:(498.0,979.0)
+:Sending Touch (ACTION_UP): 0:(502.96338,978.77673)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(1577.0,945.0)
+:Sending Touch (ACTION_UP): 0:(1578.5975,936.3819)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1439.0,383.0)
+:Sending Touch (ACTION_UP): 0:(1440.348,386.73444)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1594.0,69.0)
+:Sending Touch (ACTION_UP): 0:(1614.3364,76.20041)
+:Sending Touch (ACTION_DOWN): 0:(1494.0,774.0)
+    //[calendar_time:2017-09-30 16:34:57.676  system_uptime:282757583]
+    // Sending event #1900
+:Sending Touch (ACTION_UP): 0:(1469.2971,804.63544)
+:Sending Touch (ACTION_DOWN): 0:(574.0,1049.0)
+:Sending Touch (ACTION_UP): 0:(593.06647,1045.9387)
+:Sending Touch (ACTION_DOWN): 0:(427.0,533.0)
+:Sending Touch (ACTION_UP): 0:(428.66916,486.90732)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.wuyichuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.wuyichuanqi/.AppActivity } in package com.game37.wuyichuanqi
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(389.0,85.0)
+:Sending Touch (ACTION_UP): 0:(372.0995,88.390785)
+:Sending Touch (ACTION_DOWN): 0:(523.0,1042.0)
+:Sending Touch (ACTION_UP): 0:(522.86035,1042.9941)
+:Sending Touch (ACTION_DOWN): 0:(1352.0,842.0)
+:Sending Touch (ACTION_UP): 0:(1391.1499,832.5844)
+:Sending Touch (ACTION_DOWN): 0:(1144.0,721.0)
+:Sending Touch (ACTION_UP): 0:(1246.6796,762.07367)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1248.0,110.0)
+:Sending Touch (ACTION_UP): 0:(1247.8507,109.93667)
+:Sending Touch (ACTION_DOWN): 0:(750.0,446.0)
+:Sending Touch (ACTION_UP): 0:(780.87506,487.23727)
+:Sending Touch (ACTION_DOWN): 0:(1421.0,871.0)
+:Sending Touch (ACTION_UP): 0:(1421.8733,876.5152)
+:Sending Touch (ACTION_DOWN): 0:(21.0,229.0)
+:Sending Touch (ACTION_UP): 0:(25.270191,248.1994)
+:Sending Touch (ACTION_DOWN): 0:(1355.0,880.0)
+:Sending Touch (ACTION_UP): 0:(1358.5538,891.38403)
+:Sending Touch (ACTION_DOWN): 0:(6.0,483.0)
+:Sending Touch (ACTION_UP): 0:(18.068375,485.13736)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.wuyichuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.wuyichuanqi/.AppActivity } in package com.game37.wuyichuanqi
+:Sending Touch (ACTION_DOWN): 0:(236.0,403.0)
+:Sending Touch (ACTION_UP): 0:(237.16158,403.51678)
+:Sending Touch (ACTION_DOWN): 0:(1133.0,1007.0)
+:Sending Touch (ACTION_UP): 0:(1133.1534,989.92126)
+:Sending Touch (ACTION_DOWN): 0:(40.0,320.0)
+:Sending Touch (ACTION_UP): 0:(51.08803,319.7784)
+:Sending Touch (ACTION_DOWN): 0:(1006.0,17.0)
+:Sending Touch (ACTION_UP): 0:(1010.24774,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+Events injected: 2000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=9 rotations=0
+## Network stats: elapsed time=165827ms (0ms mobile, 0ms wifi, 165827ms not connected)
+// Monkey finished

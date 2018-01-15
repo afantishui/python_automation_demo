@@ -1,0 +1,151 @@
+:Monkey: seed=1506667364946 count=500
+:AllowPackage: com.tencent.mobileqq
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 20.0%
+//   1: 5.714286%
+//   2: 1.1428572%
+//   3: 8.571429%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 14.285715%
+//   7: 40.0%
+//   8: 1.1428572%
+//   9: 1.1428572%
+//   10: 0.5714286%
+//   11: 7.4285717%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.tencent.mobileqq/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tencent.mobileqq/.activity.SplashActivity } in package com.tencent.mobileqq
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(299.0,17.0)
+:Sending Touch (ACTION_UP): 0:(301.56924,19.327782)
+:Sending Touch (ACTION_DOWN): 0:(1022.0,683.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,603.77655)
+:Sending Touch (ACTION_DOWN): 0:(392.0,428.0)
+:Sending Touch (ACTION_UP): 0:(392.1317,421.48172)
+:Sending Touch (ACTION_DOWN): 0:(446.0,113.0)
+:Sending Touch (ACTION_UP): 0:(427.2127,113.83076)
+:Sending Touch (ACTION_DOWN): 0:(604.0,1919.0)
+:Sending Touch (ACTION_UP): 0:(603.99896,1920.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(742.0,971.0)
+:Sending Touch (ACTION_UP): 0:(737.1169,975.50684)
+:Sending Touch (ACTION_DOWN): 0:(254.0,962.0)
+:Sending Touch (ACTION_UP): 0:(250.72247,943.12177)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(912.0,658.0)
+:Sending Touch (ACTION_UP): 0:(910.1622,658.033)
+:Sending Touch (ACTION_DOWN): 0:(264.0,845.0)
+:Sending Touch (ACTION_UP): 0:(264.8938,838.9021)
+:Sending Touch (ACTION_DOWN): 0:(423.0,1620.0)
+:Sending Touch (ACTION_UP): 0:(424.75607,1618.5286)
+    //[calendar_time:2017-09-28 16:57:30.036  system_uptime:111309944]
+    // Sending event #100
+    //[calendar_time:2017-09-28 16:57:30.339  system_uptime:111310245]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(647.0,1227.0)
+:Sending Touch (ACTION_UP): 0:(649.8866,1227.5144)
+:Sending Touch (ACTION_DOWN): 0:(572.0,870.0)
+:Sending Touch (ACTION_UP): 0:(575.4194,890.524)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(875.0,258.0)
+:Sending Touch (ACTION_UP): 0:(869.6723,253.1224)
+:Sending Touch (ACTION_DOWN): 0:(991.0,20.0)
+:Sending Touch (ACTION_UP): 0:(993.5529,22.253733)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(172.0,1662.0)
+:Sending Touch (ACTION_UP): 0:(169.12311,1659.6384)
+:Sending Touch (ACTION_DOWN): 0:(555.0,1005.0)
+:Sending Touch (ACTION_UP): 0:(557.93896,1004.0726)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.bayechuanqi/.AppActivity } in package com.game37.bayechuanqi
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.bayechuanqi/.AppActivity } in package com.game37.bayechuanqi
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(519.0,1414.0)
+:Sending Touch (ACTION_UP): 0:(555.56,1464.7639)
+:Sending Touch (ACTION_DOWN): 0:(364.0,594.0)
+:Sending Touch (ACTION_UP): 0:(358.60013,593.94885)
+:Sending Touch (ACTION_DOWN): 0:(490.0,279.0)
+:Sending Touch (ACTION_UP): 0:(498.83716,261.79333)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+    //[calendar_time:2017-09-28 16:57:40.299  system_uptime:111320206]
+    // Sending event #200
+    // Rejecting start of Intent { cmp=com.android.settings/.applications.InstalledAppDetailsTop } in package com.android.settings
+    // Rejecting start of Intent { cmp=com.android.settings/.applications.InstalledAppDetailsTop } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(177.0,1153.0)
+:Sending Touch (ACTION_UP): 0:(168.3617,1134.891)
+:Sending Touch (ACTION_DOWN): 0:(852.0,92.0)
+:Sending Touch (ACTION_UP): 0:(868.1191,92.131134)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(3.0,715.0)
+:Sending Touch (ACTION_UP): 0:(0.0,767.4604)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(157.0,78.0)
+:Sending Touch (ACTION_UP): 0:(153.62427,88.2848)
+:Sending Touch (ACTION_DOWN): 0:(101.0,1272.0)
+    //[calendar_time:2017-09-28 16:57:46.669  system_uptime:111326576]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(5.4678783,1232.8816)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(515.0,356.0)
+:Sending Touch (ACTION_UP): 0:(519.3489,360.98245)
+:Sending Touch (ACTION_DOWN): 0:(957.0,1627.0)
+:Sending Touch (ACTION_UP): 0:(955.66235,1623.2913)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(832.0,1486.0)
+:Sending Touch (ACTION_UP): 0:(855.49994,1460.2634)
+:Sending Touch (ACTION_DOWN): 0:(771.0,1198.0)
+:Sending Touch (ACTION_UP): 0:(772.88837,1186.302)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+    // Rejecting start of Intent { cmp=com.android.settings/.applications.InstalledAppDetailsTop } in package com.android.settings
+    // Rejecting start of Intent { cmp=com.android.settings/.applications.InstalledAppDetailsTop } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(158.0,60.0)
+:Sending Touch (ACTION_UP): 0:(170.09521,54.048145)
+:Sending Touch (ACTION_DOWN): 0:(660.0,9.0)
+:Sending Touch (ACTION_UP): 0:(641.5362,0.0)
+:Sending Touch (ACTION_DOWN): 0:(480.0,1604.0)
+:Sending Touch (ACTION_UP): 0:(472.55222,1596.446)
+    //[calendar_time:2017-09-28 16:57:56.959  system_uptime:111336865]
+    // Sending event #400
+    // activityResuming(com.tencent.mobileqq)
+:Sending Touch (ACTION_DOWN): 0:(997.0,846.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,911.3814)
+:Sending Touch (ACTION_DOWN): 0:(773.0,1434.0)
+:Sending Touch (ACTION_UP): 0:(771.73755,1441.889)
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.filemanager.activity.fileassistant.QfileFileAssistantActivity } in package com.tencent.mobileqq
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.filemanager.activity.fileassistant.QfileFileAssistantActivity } in package com.tencent.mobileqq
+:Sending Touch (ACTION_DOWN): 0:(157.0,1061.0)
+:Sending Touch (ACTION_UP): 0:(157.4724,1059.2773)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(636.0,1146.0)
+:Sending Touch (ACTION_UP): 0:(625.0397,1149.0096)
+:Sending Touch (ACTION_DOWN): 0:(511.0,1803.0)
+:Sending Touch (ACTION_UP): 0:(512.9852,1793.2527)
+:Sending Touch (ACTION_DOWN): 0:(727.0,36.0)
+:Sending Touch (ACTION_UP): 0:(728.7152,37.017445)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(797.0,1080.0)
+:Sending Touch (ACTION_UP): 0:(791.0159,1079.714)
+:Sending Touch (ACTION_DOWN): 0:(787.0,317.0)
+:Sending Touch (ACTION_UP): 0:(793.9029,319.45822)
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.activity.QQBrowserDelegationActivity } in package com.tencent.mobileqq
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.activity.QQBrowserDelegationActivity } in package com.tencent.mobileqq
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.activity.QQBrowserActivity } in package com.tencent.mobileqq
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.activity.QQBrowserActivity } in package com.tencent.mobileqq
+    // activityResuming(com.tencent.mobileqq)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.filemanager.activity.UniformDownloadActivity } in package com.tencent.mobileqq
+    // Allowing start of Intent { cmp=com.tencent.mobileqq/.filemanager.activity.UniformDownloadActivity } in package com.tencent.mobileqq
+:Sending Touch (ACTION_DOWN): 0:(921.0,517.0)
+Events injected: 500
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=1 rotations=0
+## Network stats: elapsed time=47386ms (0ms mobile, 0ms wifi, 47386ms not connected)
+// Monkey finished
