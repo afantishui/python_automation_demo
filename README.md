@@ -1,5 +1,8 @@
 # python_automation_demo
-说明
+* 这个把selenium、monkey、接口代码写在了同一框架，共用一些方法或目录，分离整理如下：
+* selenium(https://github.com/afantishui/selenium)
+* monkey(https://github.com/afantishui/monkey)
+* interface(https://github.com/afantishui/interface)
 
 2017.9.5
 
